@@ -13,19 +13,19 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="elements.html#element">
+                            <a class="nav-link" href="equipe.php">
                                 Équipe
                             </a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="elements.html#element">
+                            <a class="nav-link" href="materiel.php">
                                 Matériel
                             </a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="elements.html#element">
+                            <a class="nav-link" href="galerie.php">
                                 Galerie
                             </a>
                         </li>
